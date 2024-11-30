@@ -1,0 +1,11 @@
+name: cartesian_product
+description: Cartesian product of any number of lists.
+version: 1.0.0
+repository: https://github.com/martinsellergren/cartesian_product
+
+environment:
+  sdk: ^3.5.4
+
+dev_dependencies:
+  lints: ^4.0.0
+  test: ^1.24.0
